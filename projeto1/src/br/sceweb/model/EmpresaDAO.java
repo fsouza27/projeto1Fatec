@@ -1,8 +1,10 @@
 package br.sceweb.model;
 
 import java.sql.SQLException;
+
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
+
 import br.sceweb.servico.FabricaDeConexoes;
 
 public class EmpresaDAO {

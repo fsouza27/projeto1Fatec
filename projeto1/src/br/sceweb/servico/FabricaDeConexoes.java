@@ -1,6 +1,7 @@
 package br.sceweb.servico;
 
 import java.sql.DriverManager;
+
 import com.mysql.jdbc.Connection;
 
 public class FabricaDeConexoes {
